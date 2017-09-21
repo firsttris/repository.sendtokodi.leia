@@ -1,0 +1,1 @@
+md5sum addon.xml > addon.xml.md5
