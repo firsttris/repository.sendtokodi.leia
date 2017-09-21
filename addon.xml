@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="repository.sendtokodi" name="sendtokodi repository" version="0.0.1" provider-name="firsttris">
-	<extension point="xbmc.addon.repository" name="SendToKodi Add-on Repository">
-		<info compressed="false">http://raw.github.com/frenchdj/frenchdj.repository/master/addons.xml</info>
-		<checksum>http://raw.github.com/frenchdj/frenchdj.repository/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/frenchdj/frenchdj.repository/master/repo/</datadir>
-	</extension>
 	<extension point="xbmc.addon.metadata">
         <summary lang="en">SendToKodi Add-on Repository</summary>
         <description lang="en">SendToKodi Add-on Repository</description>
