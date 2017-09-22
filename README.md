@@ -7,4 +7,6 @@ SendToKodi addon Repository
 
 ### Continuous integration
 
-[![Build Status](https://travis-ci.org/firsttris/plugin.video.sendtokodi.svg?branch=master)](https://travis-ci.org/firsttris/plugin.video.sendtokodi) :dizzy_face:
+[![Build Status](https://travis-ci.org/firsttris/plugin.video.sendtokodi.svg?branch=master)](https://travis-ci.org/firsttris/plugin.video.sendtokodi) 
+
+:dizzy_face:
