@@ -1,1 +1,0 @@
-zip -r repository.sendtokodi/repository.sendtokodi.zip repository.sendtokodi
