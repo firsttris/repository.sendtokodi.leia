@@ -5,6 +5,6 @@ SendToKodi addon Repository
 
 [Download Repository](https://github.com/firsttris/repository.sendtokodi/raw/master/repository.sendtokodi/repository.sendtokodi-0.0.1.zip)
 
-[![Build Status](https://travis-ci.org/firsttris/plugin.video.sendtokodi.svg?branch=master)](https://travis-ci.org/firsttris/plugin.video.sendtokodi)
+### Continuous integration
 
-updated continously :dizzy_face:
+[![Build Status](https://travis-ci.org/firsttris/plugin.video.sendtokodi.svg?branch=master)](https://travis-ci.org/firsttris/plugin.video.sendtokodi) :dizzy_face:
