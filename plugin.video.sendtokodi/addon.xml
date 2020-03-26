@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.sendtokodi" name="sendtokodi" version="0.0.191.1" provider-name="firsttris">
+<addon id="plugin.video.sendtokodi" name="sendtokodi" version="0.0.192.1" provider-name="firsttris">
   <requires>
     <import addon="xbmc.python" version="2.19.0"/>
   </requires>
