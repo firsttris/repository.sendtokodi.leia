@@ -29,7 +29,7 @@
         <source>https://github.com/firsttris/</source>
     </extension>
 </addon>
-<addon id="$ADDON_NAME_PYTHON3" name="$NAME_PYTHON3" version="$VERSION_PYTHON3" provider-name="firsttris">
+<addon id="$ADDON_NAME_PYTHON3" name="$NAME_PYTHON3" version="$VERSION" provider-name="firsttris">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
