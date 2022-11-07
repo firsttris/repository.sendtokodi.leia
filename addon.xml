@@ -10,7 +10,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.sendtokodi" name="sendtokodi" version="0.9.326" provider-name="firsttris">
+<addon id="plugin.video.sendtokodi" name="sendtokodi" version="0.9.327" provider-name="firsttris">
     <requires>
         <import addon="xbmc.python" version="2.19.0"/>
     </requires>
@@ -29,7 +29,7 @@
         <source>https://github.com/firsttris/</source>
     </extension>
 </addon>
-<addon id="" name="" version="0.9.326" provider-name="firsttris">
+<addon id="" name="" version="0.9.327" provider-name="firsttris">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
