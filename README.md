@@ -4,4 +4,4 @@
 
 [Builds](https://github.com/firsttris/repository.sendtokodi.leia/tree/master/plugin.video.sendtokodi)
 
-![GitHub Logo](https://github.com/firsttris/repository.sendtokodi.leia.leia/raw/master/repository.sendtokodi.leia/icon.png)
+![GitHub Logo](https://github.com/firsttris/repository.sendtokodi.leia.leia/raw/master/repository.sendtokodi/icon.png)
