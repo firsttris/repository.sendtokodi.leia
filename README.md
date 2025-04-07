@@ -4,6 +4,4 @@
 
 [Builds](https://github.com/firsttris/repository.sendtokodi/tree/master/plugin.video.sendtokodi)
 
-![GitHub Logo](https://github.com/firsttris/repository.sendtokodi/raw/master/repository.sendtokodi/icon.png)
-
-
+![GitHub Logo](https://github.com/firsttris/repository.sendtokodi.leia/raw/master/repository.sendtokodi/icon.png)
