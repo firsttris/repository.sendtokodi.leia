@@ -1,4 +1,4 @@
-# SendToKodi Phyton 2 Repository
+# SendToKodi Leia Repository
 
 [Download Repository](https://github.com/firsttris/repository.sendtokodi.leia/raw/master/repository.sendtokodi.leia-1.0.0.zip)
 
