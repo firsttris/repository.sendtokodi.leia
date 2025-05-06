@@ -1,51 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <addons>
 <addon id="repository.sendtokodi.leia" name="sendtokodi repository" version="0.0.1" provider-name="firsttris">
 	<extension point="xbmc.addon.metadata">
         <summary lang="en">SendToKodi Add-on Repository</summary>
         <description lang="en">SendToKodi Add-on Repository</description>
         <description lang="de">SendToKodi Add-on Repository</description>
-        <disclaimer lang="en"></disclaimer>
+        <disclaimer lang="en" />
         <platform>all</platform>
 	</extension>
 </addon>
-
-<addon id="plugin.video.sendtokodi" name="sendtokodi" version="0.9.890" provider-name="firsttris">
-    <requires>
-        <import addon="xbmc.python" version="2.19.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="service.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">SendToKodi</summary>
-        <description lang="en">SendToKodi</description>
-        <description lang="de">SendToKodi</description>
-        <disclaimer lang="en"></disclaimer>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://teufel-it.de/</website>
-        <email>info@teufel-it.de</email>
-        <source>https://github.com/firsttris/</source>
-    </extension>
-</addon>
-<addon id="" name="" version="0.9.890" provider-name="firsttris">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="service.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">SendToKodi</summary>
-        <description lang="en">SendToKodi</description>
-        <description lang="de">SendToKodi</description>
-        <disclaimer lang="en"></disclaimer>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://teufel-it.de/</website>
-        <email>info@teufel-it.de</email>
-        <source>https://github.com/firsttris/</source>
-    </extension>
-</addon>
-</addons>
+<addon id="plugin.video.sendtokodi" name="SendToKodi" version="0.9.901" provider-name="firsttris">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0" />
+    <import addon="script.module.inputstreamhelper" version="0.6.1" />
+    <import addon="script.module.requests" version="2.27.1" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="service.py">
+      <provides>video</provides>
+  </extension>
+  
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">SendToKodi</summary>
+    <description lang="en">SendToKodi</description>
+    <description lang="de">SendToKodi</description>
+    <disclaimer lang="en">The sent URLs are resolved with an external library. In case a website/stream does not work, check if youtube-dl or youtube-dlp can download them outside of kodi before opening a bug.</disclaimer>
+    <platform>all</platform>
+    <license>MIT License</license>
+    <website>https://teufel-it.de/</website>
+    <email>info@teufel-it.de</email>
+    <source>https://github.com/firsttris/</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon></addons>
